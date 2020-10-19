@@ -1,0 +1,12 @@
+{
+  "appId": "work.floris.capacitororientationbug",
+  "appName": "capacitor-orientation-bug",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-orientation-bug</string>
+    <string name="title_activity_main">capacitor-orientation-bug</string>
+    <string name="package_name">work.floris.capacitororientationbug</string>
+    <string name="custom_url_scheme">work.floris.capacitororientationbug</string>
+</resources>
